@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrainingCRUDAPI</string>
+    <string name="nim">NIM</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="kelas">Kelas</string>
+
+    <string name="title_added">Tambah Data</string>
+    <string name="title_update">Update Data</string>
+</resources>
